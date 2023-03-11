@@ -6,4 +6,4 @@ Esse é meu perfil institucional para publicar os projetos desenvolvidos durante
 - :books: Estudando Sistemas de Informação
     
 ### Entre em contato comigo!
-[![Gmail Badge](https://img.shields.io/badge/-Simone-Lopes-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:simone.santos@sptech.school)](mailto:simone.santos@sptech.school)
+[![Gmail Badge](https://img.shields.io/badge/-SimoneLS-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:simone.santos@sptech.school)](mailto:simone.santos@sptech.school)
