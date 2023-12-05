@@ -6,7 +6,7 @@ Estou explorando minha paixão pela tecnologia e buscando oportunidades para exp
 
 - :woman_technologist: Técnica em Desenvolvimento de Sistemas e cursos extra-curriculares.
 
-- :books: Estudando Bacharelado em Sistemas de Informação na São Paulo Tech School 
+- :books: Estudando Bacharelado em Sistemas de Informação na São Paulo Tech School  
 
 ## Meu conhecimento...
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
